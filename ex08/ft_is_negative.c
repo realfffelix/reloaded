@@ -6,11 +6,13 @@
 /*   By: fdubois <fdubois@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/10/30 17:31:16 by fdubois           #+#    #+#             */
-/*   Updated: 2018/10/30 17:35:01 by fdubois          ###   ########.fr       */
+/*   Updated: 2018/11/04 18:09:14 by fdubois          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-void ft_is_negative(int n)
+void	ft_putchar(char c);
+
+void	ft_is_negative(int n)
 {
 	n < 0? ft_putchar('N'): ft_putchar('P');
 }

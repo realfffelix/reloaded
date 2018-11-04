@@ -6,9 +6,11 @@
 /*   By: fdubois <fdubois@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/10/30 17:23:01 by fdubois           #+#    #+#             */
-/*   Updated: 2018/10/30 17:30:16 by fdubois          ###   ########.fr       */
+/*   Updated: 2018/11/04 18:08:46 by fdubois          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+void	ft_putchar(char c);
 
 void	ft_print_numbers(void)
 {

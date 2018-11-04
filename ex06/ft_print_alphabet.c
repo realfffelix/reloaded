@@ -6,9 +6,11 @@
 /*   By: fdubois <fdubois@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/10/30 17:23:01 by fdubois           #+#    #+#             */
-/*   Updated: 2018/10/30 17:28:19 by fdubois          ###   ########.fr       */
+/*   Updated: 2018/11/04 18:07:59 by fdubois          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+void	ft_putchar(char c);
 
 void	ft_print_alphabet(void)
 {
